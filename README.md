@@ -1,73 +1,85 @@
 # HI I,M NEELAKANTESWAR
 
-### 🚀 About Me
-- 🎓 Final-year B.Tech, Computer Science & Engineering (IoT) at **SVCET, Tirupati**
-- 🎯 Aiming for a career in **Embedded ML / Edge AI**
-- 🔧 Building with ESP32, sensors, and machine learning on tiny devices
-- 🤖 Working on a long-term AI companion robot and a secure ML-based monitoring project
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-id) · [Email](mailto:your@email.com) · [Portfolio](https://your-portfolio-link)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=180&section=header&text=Neelakanta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20ML%20%7C%20Edge%20AI%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Final_Year-CSE_(IoT)-00F7FF?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Open_to-Internships-00F7FF?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://komarev.com/ghpvc/?username=NANDYALA-NEELAKANTESWAR-REDDY&color=00F7FF&style=flat-square&label=Profile+Views"/>
+</p>
 
-### 🛠️ Tech Stack
+```bash
+$ whoami
+neelakanta
 
-**Hardware & Embedded**
+$ cat about.txt
+> Final-year B.Tech student (CSE - IoT) at SVCET, Tirupati
+> I make small devices smart: ESP32 + sensors + ML
+> Goal: Embedded ML Engineer / Edge AI Developer
+> Building: an AI companion robot, in my spare time
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+$ ls interests/
+embedded-systems/  tinyml/  computer-vision/  robotics/  iot/
+```
 
-**AI / ML**
+## ⚡ What I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+| Area | Tools |
+|---|---|
+| **Firmware** | C/C++, Arduino framework, ESP32, ESP32-CAM |
+| **ML** | Python, scikit-learn, TensorFlow / TFLite |
+| **Connectivity** | MQTT, ThingsBoard, Bluetooth, Wi-Fi |
+| **Workflow** | Git, GitHub, VS Code, PlatformIO |
 
-**IoT & Protocols**
+## 🔥 Selected Work
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![ThingsBoard](https://img.shields.io/badge/ThingsBoard-1C2B5E?style=for-the-badge)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+<details open>
+<summary><b>🌦️ IoT Weather Monitoring</b></summary>
 
-**Tools**
+- ESP32 + DHT11 publishing readings over MQTT to a ThingsBoard dashboard
+- 🔗 [Repository](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO)
+</details>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<details>
+<summary><b>📷 ESP32-CAM Computer Vision</b></summary>
 
----
+- Image capture and processing on a low-cost camera module
+- 🔗 [Repository](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO)
+</details>
 
-### 📌 Featured Projects
+<details>
+<summary><b>🏠 Smart Home Automation</b></summary>
 
-| Project | Description | Tech |
-|---|---|---|
-| 🌦️ [IoT Weather Monitoring](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO) | Live temperature/humidity dashboard | ESP32, DHT11, MQTT, ThingsBoard |
-| 🏠 [Smart Home Automation](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO) | Remote control of home appliances | ESP32, Relays, IoT |
-| 📷 [ESP32-CAM Vision](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO) | Computer vision on a low-cost camera module | ESP32-CAM, OpenCV |
-| 🎓 [Student Performance Prediction](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO) | ML model predicting academic outcomes | Python, scikit-learn |
-| 🧮 [ESP32 Calculator](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO) | Standalone calculator on ESP32 | ESP32, C++ |
+- Appliance control with ESP32 and relays
+- 🔗 [Repository](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO)
+</details>
 
----
+<details>
+<summary><b>🎓 Student Performance Prediction</b></summary>
 
-### 📊 GitHub Stats
+- ML model built in Python to predict academic outcomes
+- 🔗 [Repository](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO)
+</details>
 
-<div align="center">
+<details>
+<summary><b>🤖 In progress: ML security monitor + Bluetooth robot car</b></summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NANDYALA-NEELAKANTESWAR-REDDY&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NANDYALA-NEELAKANTESWAR-REDDY&layout=compact&theme=tokyonight&hide_border=true)
+- Two-ESP32 setup: ML-based detection with a robot car response
+</details>
 
-</div>
+## 📈 Activity
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDYALA-NEELAKANTESWAR-REDDY&theme=dark&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDYALA-NEELAKANTESWAR-REDDY&layout=compact&theme=dark&hide_border=true&title_color=00F7FF" height="150"/>
+</p>
 
-### 🌱 Currently
-- 🔭 Working on: secure ML-based monitoring with a Bluetooth robot car response
-- 📚 Learning: TinyML, model quantization, edge deployment
+## 📫 Let's connect
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+</p>
 
-⭐ *If you like my work, drop a star!* ⭐
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:00F7FF&height=100&section=footer" width="100%"/>
