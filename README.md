@@ -1,6 +1,6 @@
 # HI I,M NEELAKANTESWAR
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=180&section=header&text=Neelakanta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20ML%20%7C%20Edge%20AI%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=180&section=header&text=NEELAKANTESWAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20ML%20%7C%20Edge%20AI%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Final_Year-CSE_(IoT)-00F7FF?style=flat-square&labelColor=0A0A0A"/>
@@ -37,13 +37,6 @@ embedded-systems/  tinyml/  computer-vision/  robotics/  iot/
 <summary><b>🌦️ IoT Weather Monitoring</b></summary>
 
 - ESP32 + DHT11 publishing readings over MQTT to a ThingsBoard dashboard
-- 🔗 [Repository](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO)
-</details>
-
-<details>
-<summary><b>📷 ESP32-CAM Computer Vision</b></summary>
-
-- Image capture and processing on a low-cost camera module
 - 🔗 [Repository](https://github.com/NANDYALA-NEELAKANTESWAR-REDDY/REPO)
 </details>
 
