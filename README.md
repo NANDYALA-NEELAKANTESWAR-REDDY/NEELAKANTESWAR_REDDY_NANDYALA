@@ -33,7 +33,7 @@ embedded-systems/  tinyml/  computer-vision/  robotics/  iot/
 
 ## 🔥 Selected Work
 
-<details open>
+<details >
 <summary><b>🌦️ IoT Weather Monitoring</b></summary>
 
 - ESP32 + DHT11 publishing readings over MQTT to a ThingsBoard dashboard
