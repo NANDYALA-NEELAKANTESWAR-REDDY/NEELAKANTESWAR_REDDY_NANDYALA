@@ -1,13 +1,5 @@
 # HI I,M NEELAKANTESWAR
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Neelakanta+👋;Embedded+ML+%26+Edge+AI+Developer;CSE+(IoT)+Final-Year+Student;Building+robots+that+think+🤖" alt="Typing SVG" />
-
-</div>
-
----
-
 ### 🚀 About Me
 - 🎓 Final-year B.Tech, Computer Science & Engineering (IoT) at **SVCET, Tirupati**
 - 🎯 Aiming for a career in **Embedded ML / Edge AI**
